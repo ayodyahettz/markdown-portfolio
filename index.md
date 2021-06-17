@@ -14,7 +14,10 @@ layout: default
 
 <br>
 
-{% include 04-lists.md %}
+* this is an unordered list
+* i like foods like
+  * Lasagna
+  * Cheesecake
 
 <br>
 
