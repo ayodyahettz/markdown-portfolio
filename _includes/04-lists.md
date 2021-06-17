@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* this is a list of my favourite things
+  * food
+  * sleep
+  * food
