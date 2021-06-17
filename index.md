@@ -12,3 +12,13 @@ layout: default
 
 {% include 03-links.md %}
 
+<br>
+
+* this is an unordered list
+* i like foods like
+  * Lasagna
+  * Cheesecake
+
+<br>
+
+{% include 05-emphasis.md %}
